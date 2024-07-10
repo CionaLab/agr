@@ -1,0 +1,218 @@
+95,aaIN1,aaIN
+102,aaIN2,aaIN
+115,aaIN3,aaIN
+ATEN1,aATEN-1,aATEN
+ATEN2,aATEN-2,aATEN
+ATEN3,aATEN-3,aATEN
+ATEN4,aATEN-4,aATEN
+ACIN1L,ACIN-1L,ACIN
+ACIN2L,ACIN-2L,ACIN
+ACIN2R,ACIN-2R,ACIN
+107,AMBI-107,Posterior BV ambiguous cells
+177,AMBI-177,Posterior BV ambiguous cells
+AMG1,AMG-1,AMG
+AMG2,AMG-2,AMG
+AMG3,AMG-3,AMG
+AMG4,AMG-4,AMG
+AMG5,AMG-5,AMG
+AMG6,AMG-6,AMG
+AMG7,AMG-7,AMG
+Ant1,Ant-1,Antenna
+Ant2,Ant-2,Antenna
+134,ARN-134,AntRN;ant1/2 RN
+135,ARN-135,AntRN;ant2 RN
+142,ARN-142,AntRN;ant1/2 RN
+143,ARN-143,AntRN;ant1/2 RN
+147,ARN-147,AntRN;ant1 RN
+152,ARN-152,AntRN;ant1 RN
+153,ARN-153,AntRN;ant2 RN
+159,ARN-159,AntRN;ant2 RN
+161,ARN-161,AntRN;ant1 RN
+120,ARN-120,AntRN;ant1/2 RN;ant-cor RN
+90,BPIN-90,Bipolar prIN
+92,BPIN-92,Bipolar prIN
+BTN1,BTN-1,BTN
+BTN2,BTN-2,BTN
+BTN3,BTN-3,BTN
+BTN4,BTN-4,BTN
+ukn,ukn1,BVIN
+ukn2,ukn2,BVIN
+3,BVIN-3,BVIN;cil-BVIN
+13,BVIN-13,BVIN;prIN
+16,BVIN-16,BVIN;pr-ant IN;prIN;antIN
+18,BVIN-18,BVIN;cil-BVIN
+21,BVIN-21,BVIN;cil-BVIN
+22,BVIN-22,BVIN;prIN
+24,BVIN-24,BVIN;antIN
+33,BVIN-33,BVIN;antIN
+41,BVIN-41,BVIN;cil-BVIN
+42,BVIN-42,BVIN;prIN
+43,BVIN-43,BVIN;cil-BVIN
+46,BVIN-46,BVIN
+138,BVIN-138,BVIN;cil-BVIN
+1,CAB-1,cor-ass BVIN
+2,CAB-2,cor-ass BVIN
+15,CAB-15,cor-ass BVIN
+17,CAB-17,cor-ass BVIN;prIN;cil-BVIN
+23,CAB-23,cor-ass BVIN
+38,CAB-38,cor-ass BVIN;antIN
+48,CAB-48,cor-ass BVIN;cil-BVIN
+50,CAB-50,cor-ass BVIN;prIN;cil-BVIN
+55,CAB-55,cor-ass BVIN
+59,CAB-59,cor-ass BVIN
+60,CAB-60,cor-ass BVIN;antIN
+62,CAB-62,cor-ass BVIN
+68,CAB-68,cor-ass BVIN;pr-ant IN;prIN;antIN
+70,CAB-70,cor-ass BVIN;pr-ant IN;prIN;antIN
+73,CAB-73,cor-ass BVIN;antIN
+78,CAB-78,cor-ass BVIN;prIN
+79,CAB-79,cor-ass BVIN;antIN
+coronet1,COR-1,Coronet
+coronet10,COR-10,Coronet
+coronet11,COR-11,Coronet
+coronet12,COR-12,Coronet
+coronet13,COR-13,Coronet
+coronet14,COR-14,Coronet
+coronet15,COR-15,Coronet
+coronet16,COR-16,Coronet
+coronet2,COR-2,Coronet
+coronet3,COR-3,Coronet
+coronet4,COR-4,Coronet
+coronet5,COR-5,Coronet
+coronet6,COR-6,Coronet
+coronet7,COR-7,Coronet
+coronet8,COR-8,Coronet
+coronet9,COR-9,Coronet
+pnh,DCEN-1,DCEN
+pnu,DCEN-2,DCEN
+pnx,DCEN-3,DCEN
+pnz,DCEN-4,DCEN
+ddNL,ddN-L,ddN
+ddNR,ddN-R,ddN
+109,EMN-1,Eminens;anchor
+99,EMN-2,Eminens;anchor
+lens4,LNS-4,lens cell
+lens5,LNS-5,lens cell
+lens8,LNS-8,lens cell
+MGIN1L,MGIN-1L,MGIN
+MGIN1R,MGIN-1R,MGIN
+MGIN2L,MGIN-2L,MGIN
+MGIN2R,MGIN-2R,MGIN
+MGIN3L,MGIN-3L,MGIN
+MGIN3R,MGIN-3R,MGIN
+MN1L,MN-1L,MN
+MN1R,MN-1R,MN
+MN2L,MN-2L,MN
+MN2R,MN-2R,MN
+MN3L,MN-3L,MN
+MN3R,MN-3R,MN
+MN4L,MN-4L,MN
+MN4R,MN-4R,MN
+MN5L,MN-5L,MN
+MN5R,MN-5R,MN
+midtail1,mt1,MTN
+midtail2,mt2,MTN
+midtail4,mt4,MTN
+midtail7,mt7,MTN
+165,NeckNL,Neck
+166,NeckNR,Neck
+103,NSR-103,non-sensory RN;Secondary RN
+106,NSR-106,non-sensory RN;Secondary RN
+122,NSR-122,non-sensory RN;Secondary RN
+125,NSR-125,non-sensory RN;Secondary RN
+93,NSR-93,non-sensory RN;Secondary RN
+Ocellus,Ocellus,Ocellus
+Otolith,Otolith,Otolith
+pna,pATEN-1,pATEN
+pnb,pATEN-2,pATEN
+pnc,pATEN-3,pATEN
+pnf,pATEN-4,pATEN
+160,pPNIN-160,PBV PNIN
+162,pPNIN-162,PBV PNIN
+163,pPNIN-163,PBV PNIN
+164,pPNIN-164,PBV PNIN
+PMGN1,PMGN1,PMGN
+PMGN2,PMGN2,PMGN
+pns1,aRTEN-1,pna;RTEN
+pns13,aRTEN-2,pna;RTEN
+pns2,aRTEN-3,pna;RTEN
+pns5,aRTEN-4,pna;RTEN
+pns6,aRTEN-5,pna;RTEN
+pns9,aRTEN-6,pna;RTEN
+pns10,pRTEN-1,pnb;RTEN
+pns11,pRTEN-2,pnb;RTEN
+pns12,pRTEN-3,pnb;RTEN
+pns3,pRTEN-4,pnb;RTEN
+pns4,pRTEN-5,pnb;RTEN
+pns7,pRTEN-6,pnb;RTEN
+20,PNIN-20,PNIN
+25,PNIN-25,PNIN
+29,PNIN-29,PNIN
+30,PNIN-30,PNIN
+4,PNIN-4,PNIN
+6,PNIN-6,PNIN
+85,PNIN-85,PNIN
+61,PNIN-61,PNIN
+65,PNIN-65,PNIN;cor-ass BVIN
+88,PNIN-88,PNIN
+131,PNRN-131,PN RN
+pr1,PR-1,PR (I)
+pr10,PR-10,PR (I);anchor
+pr11,PR-11,PR (I)
+pr12,PR-12,PR (I)
+pr13,PR-13,PR (I)
+pr14,PR-14,PR (I)
+pr15,PR-15,PR (I)
+pr16,PR-16,PR (I)
+pr17,PR-17,PR (I)
+pr18,PR-18,PR (I)
+pr19,PR-19,PR (I)
+pr2,PR-2,PR (I)
+pr20,PR-20,PR (I)
+pr21,PR-21,PR (I)
+pr22,PR-22,PR (I)
+pr23,PR-23,PR (I)
+pr3,PR-3,PR (I)
+pr4,PR-4,PR (I)
+pr5,PR-5,PR (I)
+pr6,PR-6,PR (I)
+pr7,PR-7,PR (I)
+pr8,PR-8,PR (I)
+pr9,PR-9,PR (I);anchor
+pr-a,PR-a,PR (II);anchor
+pr-b,PR-b,PR (II);anchor
+pr-c,PR-c,PR (II);anchor
+pr-d,PR-d,PR (II);anchor
+pr-e,PR-e,PR (II);anchor
+pr-f,PR-f,PR (II);anchor
+pr-g,PR-g,PR (II);anchor
+prIII-101,prIII-101,PR (III)
+prIII-110,prIII-110,PR (III)
+prIII-113,prIII-113,PR (III)
+prIII-114,prIII-114,PR (III)
+prIII-6,prIII-6,PR (III)
+prIII-7,prIII-7,PR (III)
+prIII-84,prIII-84,PR (III)
+108,PRARN-108,pr-AMG RN
+116,PRARN-116,pr-AMG RN
+124,PRARN-124,pr-AMG RN
+127,PRARN-127,pr-AMG RN
+140,PRARN-140,pr-AMG RN
+157,PRARN-157,pr-AMG RN
+74,PRARN-74,pr-AMG RN
+94,PRARN-94,pr-AMG RN
+123,PRBRN-123,pr-BTN RN
+130,PRBRN-130,pr-BTN RN
+105,PRCRN-105,pr-cor RN
+112,PRCRN-112,pr-cor RN
+119,PRCRN-119,pr-cor RN
+100,PRRN-100,prRN
+121,PRRN-121,prRN
+126,PRRN-126,prRN
+80,PRRN-80,prRN
+86,PRRN-86,prRN
+96,PRRN-96,prRN
+trIN,trIN,trIN
+vacIN1,vacIN-1,vacIN
+vacIN2,vacIN-2,vacIN
+vac3,vacIN-3,vacIN

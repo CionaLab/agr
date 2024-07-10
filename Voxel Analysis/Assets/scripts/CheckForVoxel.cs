@@ -43,7 +43,7 @@ public class CheckForVoxel : MonoBehaviour
         currWidth = currHeight[j].Split(',');
         done = true;
         if (BVOrMG == "MG")
-        {    
+        {
             this.transform.position = MGpos;
             this.transform.eulerAngles = MGrot;
         }
@@ -118,7 +118,7 @@ public class CheckForVoxel : MonoBehaviour
     //Called at the end to compile analysis. See VoxelCollider.cs for analysis values
     void calculateVoxels()
     {
-        GameObject[] allNeurons = GameObject.FindGameObjectsWithTag("Respawn");
+        GameObject[] allNeurons = GameObject.FindGameObjectsWithTag("Neuron");
         foreach (GameObject currNeur in allNeurons)
         {
             NeuronDetails tempNeur = currNeur.GetComponent<NeuronDetails>();

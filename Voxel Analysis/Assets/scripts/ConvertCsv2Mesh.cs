@@ -82,7 +82,7 @@ public class ConvertCsv2Mesh : MonoBehaviour
 
             x++;
         }
-        
+
         int allChilds = transform.childCount-1;
         for (int i = allChilds; i >= 0; i--)
         {
