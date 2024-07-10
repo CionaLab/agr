@@ -1,0 +1,58 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code for "Whole nervous system expression of glutamate
+  receptors reveals distinct receptor roles in sensorimotor
+  circuits"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0002-6353-5841'
+    given-names: Cezar
+    family-names: Borba
+    affiliation: >-
+      Department of Molecular, Cellular, and Developmental
+      Biology, University of California, Santa Barbara
+  - given-names: Matthew J.
+    family-names: Kourakis
+    affiliation: >-
+      Neuroscience Research Institute, University of
+      California, Santa Barbara
+    orcid: 'https://orcid.org/0000-0002-1261-3811'
+  - given-names: Yishen
+    family-names: Miao
+    affiliation: >-
+      Department of Molecular, Cellular, and Developmental
+      Biology, University of California, Santa Barbara
+    orcid: 'https://orcid.org/0000-0001-7868-7402'
+  - given-names: Bharath
+    family-names: Guduri
+    affiliation: >-
+      Department of Molecular, Cellular, and Developmental
+      Biology, University of California, Santa Barbara
+  - given-names: Jianan
+    family-names: Deng
+    affiliation: >-
+      Department of Molecular, Cellular, and Developmental
+      Biology, University of California, Santa Barbara
+  - given-names: William C.
+    family-names: Smith
+    affiliation: >-
+      Department of Molecular, Cellular and Developmental
+      Biology, University of California, Santa Barbara;
+      Neuroscience Research Institute, University of
+      California Santa Barbara
+    orcid: 'https://orcid.org/0000-0002-6257-7695'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12705627
+    description: Data Package
+  - type: doi
+    value: 10.1101/2023.04.18.537384
+    description: BioRxiv
+repository-code: 'https://github.com/CionaLab/agr'
+license: GPL-3.0-only
