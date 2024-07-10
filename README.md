@@ -1,5 +1,7 @@
 # Code for "Whole nervous system expression of glutamate receptors reveals distinct receptor roles in sensorimotor circuits"
 
+[![DOI](https://zenodo.org/badge/629182484.svg)](https://zenodo.org/doi/10.5281/zenodo.12705826)
+
 This repository hosts the codes for the paper *Whole nervous system expression
 of glutamate receptors reveals distinct receptor roles in sensorimotor
 circuits*.
