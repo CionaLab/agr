@@ -1,5 +1,10 @@
 # Voxel Analysis user guide
 
+## Import neuron reconstruction
+
+1. Download the reconstruction from [Zenodo](https://doi.org/10.5281/zenodo.12705627).
+2. Import the meshes to Unity.
+
 ## Creating Mesh in Unity
 
 1. Run the MATLAB code `in_situ_to_CSVs.m` to get CSV files
@@ -13,8 +18,7 @@
     - Total Z (number of slices in the Tiff stack per channel)
     - Save Name (the name given to the mesh when it gets saved)
     - Color (the color channel to start on)
-5. Hit play. The debugger will update on the progress. When finished, the meshes
-will save under `Resources/meshes`
+5. Hit play. The debugger will update on the progress. When finished, the meshes will save under `Resources/meshes`
 
 ## Aligning meshes to neurons
 
@@ -24,6 +28,7 @@ will save under `Resources/meshes`
 4. Rotate & move the parent object (Expression Object) to align with the neurons (The neurons are separated into High Res and Low Res; avoid changing anything about these objects! Instead, you can just make the whole thing active or inactive depending on which dataset you want to use. Moving the parent object should be fine).
 
 ## Running the Analysis
+
 1. In the inspector window for "Expression Object", go to the component for the "Check For Voxel (Script)" and fill in the necessary values
     - Results (this is where you get the analysis results when it's finished). Click in, select all, copy and paste
     - X Mod (same as X Val from the mesh creator)

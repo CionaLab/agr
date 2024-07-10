@@ -6,14 +6,14 @@ using UnityEditor;
 // This script takes a series of CSV files with pixel values and creates a 3D mesh of it
 public class ConvertCsv2Mesh : MonoBehaviour
 {
-    public float xVal,xyScale,zScale; //xVal is for flipping the x axis in case the animal is facing a different direction
+    public float xVal, xyScale, zScale; //xVal is for flipping the x axis in case the animal is facing a different direction
     private bool notOver; //to determine when the code is finished generating the mesh
     public GameObject pxl; //Prefabricated cube
-    public int z,totalZ; //keeping track of the progress from slices
+    public int z, totalZ; //keeping track of the progress from slices
     private int y; //keeping track of the row of current slice
     private TextAsset currCSV; //current CSV file generating the mesh
-    private string[] currHeight,currWidth; //all values in the CSV as a string
-    public string saveName,color; //filename to be saved, and what color channel to start with
+    private string[] currHeight, currWidth; //all values in the CSV as a string
+    public string saveName, color; //filename to be saved, and what color channel to start with
 
     // Start is called before the first frame update
     void Start()
@@ -43,7 +43,7 @@ public class ConvertCsv2Mesh : MonoBehaviour
                 }
             }
             y++;
-            if (y == currHeight.Length-1)
+            if (y == currHeight.Length - 1)
             {
                 z++;
                 Debug.Log(z);
@@ -83,14 +83,14 @@ public class ConvertCsv2Mesh : MonoBehaviour
             x++;
         }
 
-        int allChilds = transform.childCount-1;
+        int allChilds = transform.childCount - 1;
         for (int i = allChilds; i >= 0; i--)
         {
             Destroy(transform.GetChild(i).gameObject);
         }
         if ((notOver) && (allChilds >= 0))
         {
-            GameObject box = Instantiate(pxl,new Vector2(0.0f,0.0f),pxl.transform.rotation);
+            GameObject box = Instantiate(pxl, new Vector2(0.0f, 0.0f), pxl.transform.rotation);
             box.GetComponent<MeshFilter>().mesh = new Mesh();
             box.GetComponent<MeshFilter>().mesh.indexFormat = UnityEngine.Rendering.IndexFormat.UInt32;
             box.GetComponent<MeshFilter>().mesh.CombineMeshes(combine);

@@ -15,9 +15,9 @@ public class CheckForVoxel : MonoBehaviour
     public float xMod, scalexy, scalez; //xMod is for flipping the x axis in case the animal is facing a different direction
     public int slices, redT, greenT, blueT; //T is for the individual values for different channels
     private bool done;
-    public string startColor,BVOrMG; //startColor is for which channel to start with; BVOrMG is for if testing the brain vesicle or motor ganglion
-    public Vector3 MGpos,MGrot,BVpos,BVrot; //These represent the position and rotation of the expression object based on motor ganglion or brain vesicle
-    public bool isRed,isGreen,isBlue; //if that color channel exists in the stack
+    public string startColor, BVOrMG; //startColor is for which channel to start with; BVOrMG is for if testing the brain vesicle or motor ganglion
+    public Vector3 MGpos, MGrot, BVpos, BVrot; //These represent the position and rotation of the expression object based on motor ganglion or brain vesicle
+    public bool isRed, isGreen, isBlue; //if that color channel exists in the stack
 
     // Start is called before the first frame update
     void Start()

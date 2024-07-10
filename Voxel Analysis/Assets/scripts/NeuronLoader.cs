@@ -22,7 +22,7 @@ public class NeuronLoader : MonoBehaviour
         foreach (string cell in cells)
         {
             fields = cell.Split(fieldSeperater);
-            GameObject go = Instantiate(neuron,this.gameObject.transform) as GameObject;
+            GameObject go = Instantiate(neuron, this.gameObject.transform) as GameObject;
         }
     }
 
